@@ -44,7 +44,7 @@ Futuramente
 >![Captura de tela 2023-10-05 194622](https://github.com/MarcosSouzaVitor/Api-semestre-3-BRASETEC/assets/133825099/09603d57-7676-4257-891c-729dfe721352)
 
 # Objetivo do Projeto
-Expandir a presença e o alcance do Café Colonial Maria e Maria, oferecendo uma experiência única e diversificada aos clientes.
+Expandir a presença e o alcance do Café Colonial Maria e Maria, oferecendo uma experiência única e diversificada aos clientes, como mostra na apresentação abaixo.
 
 # Funcionalidades e Demonstrações das Sprints
 
