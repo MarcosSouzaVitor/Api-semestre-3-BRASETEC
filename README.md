@@ -43,11 +43,6 @@ Futuramente
 # Equipe
 >![Captura de tela 2023-10-05 194622](https://github.com/MarcosSouzaVitor/Api-semestre-3-BRASETEC/assets/133825099/09603d57-7676-4257-891c-729dfe721352)
 
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
-</p>
-
 # Objetivo do Projeto
 Expandir a presença e o alcance do Café Colonial Maria e Maria, oferecendo uma experiência única e diversificada aos clientes.
 
