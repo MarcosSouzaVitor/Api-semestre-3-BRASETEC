@@ -50,11 +50,9 @@ Expandir a presença e o alcance do Café Colonial Maria e Maria, oferecendo uma
 
 ## Sprint 1
 Foi entregue três propostas para o cliente: O Empório, Bar Empório e Convêniencia Estratégica.
->Colocar o vídeo da apresentação
+https://drive.google.com/file/d/1a8HzvndPO7TGp0ZNWfREkrQTNGImELX5/view?usp=drivesdk
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
-</p>
+
 
 ## Sprint 2
 >Descrever aqui o que foi entregue na sprint
