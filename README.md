@@ -55,7 +55,8 @@ https://drive.google.com/file/d/1a8HzvndPO7TGp0ZNWfREkrQTNGImELX5/view?usp=drive
 
 
 ## Sprint 2
-Foi entregue....
+Foi entregue quatro opções de locais, 2 modelos de layouts e 3 modelos de cardápios para o Café Colonial Maria e Maria, oferecendo diversas escolhas para aprimorar a experiência do cliente.
+
 ](https://drive.google.com/file/d/1ZQue54Q-Yn02r7Q0IQK4XwMbSOAMadxt/view)
 
 
