@@ -55,12 +55,9 @@ https://drive.google.com/file/d/1a8HzvndPO7TGp0ZNWfREkrQTNGImELX5/view?usp=drive
 
 
 ## Sprint 2
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+Foi entregue....
+](https://drive.google.com/file/d/1ZQue54Q-Yn02r7Q0IQK4XwMbSOAMadxt/view)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
-</p>
 
 ## Sprint 3
 >Descrever aqui o que foi entregue na sprint
